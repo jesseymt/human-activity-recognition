@@ -64,6 +64,8 @@ Evaluation included:
 
 The analysis also examines differences between static activities such as sitting, standing, and laying and dynamic activities such as walking and stair movement.
 
+Detailed model results, visualizations, and analysis are available in [`human_activity_recognition_analysis.ipynb`](./human_activity_recognition_analysis.ipynb).
+
 ## Technologies
 
 - Python
